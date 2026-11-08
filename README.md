@@ -133,23 +133,3 @@ Em cada exercício, as informações devem ser separadas em três grupos:
 - **Lacunas:** informações que seriam necessárias para confirmar ou descartar as hipóteses.
 
 Uma conclusão deve ser proporcional às evidências. Um alerta suspeito não é automaticamente um incidente confirmado.
-
-## Escopo e uso responsável
-
-Os cenários deste repositório são exclusivamente educacionais. Não contêm credenciais, dados pessoais reais ou instruções para realizar acesso não autorizado. Os nomes e equipamentos são fictícios e devem ser tratados como elementos de simulação.
-
-## Evolução do repositório
-
-Novos exercícios podem ser adicionados mantendo a mesma estrutura:
-
-1. resumo do alerta;
-2. evidências disponíveis;
-3. linha do tempo, quando aplicável;
-4. análise;
-5. avaliação e justificativa;
-6. ações recomendadas;
-7. limitações e lacunas de evidência.
-
----
-
-*Documentação inicial criada para fins de portfólio e estudo. Atualize este README conforme novos exercícios forem realizados e revisados.*
